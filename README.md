@@ -1,7 +1,7 @@
-# KCC-Grants
+# Hepton Grant
 ## 👏 Summary
 
-Sponsored by KCS Foundation, the Grant Program focuses on technological grants. For each project, the highest grant can be $500,000 worth of KCS.
+Sponsored by Hepton developers under the Heplabs, the Grant Program focuses on technological grants. For each project, the highest grant can be 100,000 worth of USDC.
 
 All the grants are in the form of cryptocurrency and the applications can be tracked on GitHub. For larger grants, please feel free to contact us for more information.
 
