@@ -10,7 +10,7 @@ All the grants are in the form of cryptocurrency and the applications can be tra
 
 ## 📌 Introduction
 
-As part of our commitment to promote KCC, we have issued the Grant Program focusing on the financing related to the research and development of KCC to promote the free flow of values around the world. For more information about KCC, please visit "About Us" on the site.
+As part of our commitment to promote the sidechain of Hepton PoS, we have issued the Grant Program focusing on the financing related to the research and development of Hepton to promote the free flow of values around the world. For more information about Hepton, please visit our website.
 
 Grant Program attempts to achieve the above goals as well as being
 
